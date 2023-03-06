@@ -3,11 +3,8 @@
 <h2>Cybersecurity Projects:</h2>
 
 
-- <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/thomjs1/prtscnnr)
-
 - <b>Python</b>
-  - [prtscannr](https://github.com/thomjs1)
+  - [prtscannr](https://github.com/thomjs1/prtscnnr)
 
 
 <h2> Let's Connect!</h2>
