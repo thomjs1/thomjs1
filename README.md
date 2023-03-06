@@ -4,10 +4,10 @@
 
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab](https://github.com/thomjs1)
 
 - <b>Python</b>
-  - [prtscannr](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [prtscannr](https://github.com/thomjs1)
 
 
 <h2> Let's Connect!</h2>
