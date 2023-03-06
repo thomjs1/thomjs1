@@ -4,7 +4,7 @@
 
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/thomjs1)
+  - [Active Directory Home Lab](https://github.com/thomjs1/prtscnnr)
 
 - <b>Python</b>
   - [prtscannr](https://github.com/thomjs1)
